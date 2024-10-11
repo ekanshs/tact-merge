@@ -1,5 +1,7 @@
 # The Non-Local Model Merging: Permutation Symmetries and Variance Collapse
 
+<img src="figures/tact.png" alt="drawing" width="800"/>
+
 <img src="figures/last-layer-reps.png" alt="drawing" width="400"/>
 
 Code release for [The Non-Local Model Merging: Permutation Symmetries and Variance Collapse](https://arxiv.org/).
